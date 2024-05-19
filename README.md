@@ -1,7 +1,7 @@
 # Yolov8 
 This a project about MVC Lab week 4 homework.
-* In Homework 1, we use yolov8 pre-trained weight to do the object detection of 'car'.
-*  In Homework 2, we download an dataset which is suitable for doing object detection task, and use the dataset to train 'yolov8n'.
+* In Homework 1, I use yolov8 pre-trained weight to do the object detection of 'car'.
+*  In Homework 2, I download an dataset which is suitable for doing object detection task, and use the dataset to train 'yolov8n'.
   
 ## Homework1
 Please setting your env first, and inference the yolov8 on Argoverse by 

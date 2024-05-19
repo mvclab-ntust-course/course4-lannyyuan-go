@@ -31,9 +31,10 @@ After training and validating, the results show below :
 The values for each category indicate the model's detection capabilities for that type of object. Sharks and jellyfish exhibited relatively better performance, whereas penguins and puffins showed poorer results.
 
 Moreover, I have applied the trained model to an unseen set.
-![alt text](homework2/runs/detect/predict/IMG_2289_jpeg_jpg.rf.fe2a7a149e7b11f2313f5a7b30386e85.jpg)
-![alt text](homework2/runs/detect/predict2/IMG_2371_jpeg_jpg.rf.54505f60b6706da151c164188c305849.jpg)
-![alt text](homework2/runs/detect/predict3/IMG_2582_jpeg_jpg.rf.14f175066ce74b470bf31fa0c7a096cd.jpg)
+![image](https://github.com/mvclab-ntust-course/course4-lannyyuan-go/assets/122262894/c0fb2f1a-829f-45d4-bd5e-e28710a8564f)
+![image](https://github.com/mvclab-ntust-course/course4-lannyyuan-go/assets/122262894/74e0c459-a970-4fe5-acec-54e1b7944db5)
+![image](https://github.com/mvclab-ntust-course/course4-lannyyuan-go/assets/122262894/067612fe-f378-4d78-8a46-a557309b6549)
+
 
 More details are in  **homework2/object_detections.ipynb**
 

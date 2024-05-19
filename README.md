@@ -13,9 +13,9 @@ Please download the Aquarium Dataset first, and load pre-trained yolov8n for tra
 
 ####   Aquarium Dataset
 link：https://public.roboflow.com/object-detection/aquarium
-```
+
 This dataset features 638 images from two US aquariums, labeled for object detection tasks. It includes various marine and aquatic species such as fish, jellyfish, penguins, sharks, puffins, stingrays, and starfish, with most images containing multiple bounding boxes. Released under a Creative Commons By-Attribution license, the dataset supports diverse applications from coral reef conservation to pet analytics. Formats provided are compatible with popular machine learning platforms, encouraging use in both personal and commercial projects.
-```
+
 After training and validating, the results show below :
 | Class     | Images | Instances | Precision | Recall | mAP50 | mAP50-95 |
 | --------- | ------ | --------- | --------- | ------ | ----- | -------- |

@@ -1,0 +1,10 @@
+homework1/runs/*
+homework1/yolov8n.pt
+homework2/runs/*
+homework2/test/*
+homework2/train/*
+homework2/valid/*
+homework2/data.yaml
+homework2/README.dataset.txt
+homework2/README.roboflow.txt
+homework2/yolov8n.pt

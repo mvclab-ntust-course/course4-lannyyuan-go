@@ -30,7 +30,7 @@ After training and validating, the results show below :
 
 The values for each category indicate the model's detection capabilities for that type of object. Sharks and jellyfish exhibited relatively better performance, whereas penguins and puffins showed poorer results.
 
-Moreover, I have applied the trained model to an unseen set.
+Moreover, I have applied the trained model to an unseen data.
 ![image](https://github.com/mvclab-ntust-course/course4-lannyyuan-go/assets/122262894/c0fb2f1a-829f-45d4-bd5e-e28710a8564f)
 ![image](https://github.com/mvclab-ntust-course/course4-lannyyuan-go/assets/122262894/74e0c459-a970-4fe5-acec-54e1b7944db5)
 ![image](https://github.com/mvclab-ntust-course/course4-lannyyuan-go/assets/122262894/067612fe-f378-4d78-8a46-a557309b6549)
